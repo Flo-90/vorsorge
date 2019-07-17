@@ -1,4 +1,4 @@
-#Website für Versicherungen
+# Website für Versicherungen
 
 * Mobile First Ansatz
 * HTML5 & CSS3
