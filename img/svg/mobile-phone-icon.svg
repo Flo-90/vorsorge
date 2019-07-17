@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 70 70">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Zeichenfläche_13);
+      }
+
+      .cls-2, .cls-5 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke: #fff;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        stroke: none;
+      }
+
+      .cls-6 {
+        fill: rgba(63,70,125,0);
+      }
+    </style>
+    <clipPath id="clip-Zeichenfläche_13">
+      <rect width="70" height="70"/>
+    </clipPath>
+  </defs>
+  <g id="Zeichenfläche_13" data-name="Zeichenfläche – 13" class="cls-1">
+    <rect class="cls-6" width="70" height="70"/>
+    <g id="Gruppe_88" data-name="Gruppe 88" transform="translate(7 4)">
+      <g id="Rechteck_238" data-name="Rechteck 238" class="cls-2" transform="translate(13 8)">
+        <rect class="cls-4" width="30" height="46" rx="6"/>
+        <rect class="cls-5" x="0.5" y="0.5" width="29" height="45" rx="5.5"/>
+      </g>
+      <g id="Rechteck_239" data-name="Rechteck 239" class="cls-2" transform="translate(17 15)">
+        <rect class="cls-4" width="22" height="33" rx="1"/>
+        <rect class="cls-5" x="0.5" y="0.5" width="21" height="32" rx="0.5"/>
+      </g>
+      <circle id="Ellipse_8" data-name="Ellipse 8" class="cls-3" cx="1.5" cy="1.5" r="1.5" transform="translate(27 49)"/>
+    </g>
+  </g>
+</svg>

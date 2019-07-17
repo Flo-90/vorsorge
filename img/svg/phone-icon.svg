@@ -1,0 +1,130 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 70 70">
+  <defs>
+    <style>
+      .cls-1, .cls-3 {
+        fill: none;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-Zeichenfläche_12);
+      }
+
+      .cls-3, .cls-4 {
+        stroke: #fff;
+      }
+
+      .cls-4 {
+        fill: #3c4166;
+      }
+
+      .cls-5 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-6 {
+        stroke: none;
+      }
+
+      .cls-7 {
+        fill: rgba(63,70,125,0);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect class="cls-1" width="25" height="19"/>
+    </clipPath>
+    <clipPath id="clip-Zeichenfläche_12">
+      <rect width="70" height="70"/>
+    </clipPath>
+  </defs>
+  <g id="Zeichenfläche_12" data-name="Zeichenfläche – 12" class="cls-2">
+    <rect class="cls-7" width="70" height="70"/>
+    <g id="Gruppe_87" data-name="Gruppe 87" transform="translate(-1 9)">
+      <g id="Rechteck_235" data-name="Rechteck 235" class="cls-3" transform="translate(7 10)">
+        <rect class="cls-6" width="59" height="39" rx="2"/>
+        <rect class="cls-1" x="0.5" y="0.5" width="58" height="38" rx="1.5"/>
+      </g>
+      <g id="Rechteck_236" data-name="Rechteck 236" class="cls-4" transform="translate(12 4)">
+        <rect class="cls-6" width="15" height="40" rx="5"/>
+        <rect class="cls-1" x="0.5" y="0.5" width="14" height="39" rx="4.5"/>
+      </g>
+      <g id="Rechteck_237" data-name="Rechteck 237" class="cls-3" transform="translate(33 15)">
+        <rect class="cls-6" width="25" height="5" rx="1"/>
+        <rect class="cls-1" x="0.5" y="0.5" width="24" height="4" rx="0.5"/>
+      </g>
+      <g id="Wiederholungsraster_2" data-name="Wiederholungsraster 2" class="cls-5" transform="translate(33 23)">
+        <g transform="translate(-59 -628)">
+          <g id="Rechteck_233" data-name="Rechteck 233" class="cls-3" transform="translate(59 628)">
+            <rect class="cls-6" width="7" height="4" rx="1"/>
+            <rect class="cls-1" x="0.5" y="0.5" width="6" height="3" rx="0.5"/>
+          </g>
+        </g>
+        <g transform="translate(-50 -628)">
+          <g id="Rechteck_233-2" data-name="Rechteck 233" class="cls-3" transform="translate(59 628)">
+            <rect class="cls-6" width="7" height="4" rx="1"/>
+            <rect class="cls-1" x="0.5" y="0.5" width="6" height="3" rx="0.5"/>
+          </g>
+        </g>
+        <g transform="translate(-41 -628)">
+          <g id="Rechteck_233-3" data-name="Rechteck 233" class="cls-3" transform="translate(59 628)">
+            <rect class="cls-6" width="7" height="4" rx="1"/>
+            <rect class="cls-1" x="0.5" y="0.5" width="6" height="3" rx="0.5"/>
+          </g>
+        </g>
+        <g transform="translate(-59 -623)">
+          <g id="Rechteck_233-4" data-name="Rechteck 233" class="cls-3" transform="translate(59 628)">
+            <rect class="cls-6" width="7" height="4" rx="1"/>
+            <rect class="cls-1" x="0.5" y="0.5" width="6" height="3" rx="0.5"/>
+          </g>
+        </g>
+        <g transform="translate(-50 -623)">
+          <g id="Rechteck_233-5" data-name="Rechteck 233" class="cls-3" transform="translate(59 628)">
+            <rect class="cls-6" width="7" height="4" rx="1"/>
+            <rect class="cls-1" x="0.5" y="0.5" width="6" height="3" rx="0.5"/>
+          </g>
+        </g>
+        <g transform="translate(-41 -623)">
+          <g id="Rechteck_233-6" data-name="Rechteck 233" class="cls-3" transform="translate(59 628)">
+            <rect class="cls-6" width="7" height="4" rx="1"/>
+            <rect class="cls-1" x="0.5" y="0.5" width="6" height="3" rx="0.5"/>
+          </g>
+        </g>
+        <g transform="translate(-59 -618)">
+          <g id="Rechteck_233-7" data-name="Rechteck 233" class="cls-3" transform="translate(59 628)">
+            <rect class="cls-6" width="7" height="4" rx="1"/>
+            <rect class="cls-1" x="0.5" y="0.5" width="6" height="3" rx="0.5"/>
+          </g>
+        </g>
+        <g transform="translate(-50 -618)">
+          <g id="Rechteck_233-8" data-name="Rechteck 233" class="cls-3" transform="translate(59 628)">
+            <rect class="cls-6" width="7" height="4" rx="1"/>
+            <rect class="cls-1" x="0.5" y="0.5" width="6" height="3" rx="0.5"/>
+          </g>
+        </g>
+        <g transform="translate(-41 -618)">
+          <g id="Rechteck_233-9" data-name="Rechteck 233" class="cls-3" transform="translate(59 628)">
+            <rect class="cls-6" width="7" height="4" rx="1"/>
+            <rect class="cls-1" x="0.5" y="0.5" width="6" height="3" rx="0.5"/>
+          </g>
+        </g>
+        <g transform="translate(-59 -613)">
+          <g id="Rechteck_233-10" data-name="Rechteck 233" class="cls-3" transform="translate(59 628)">
+            <rect class="cls-6" width="7" height="4" rx="1"/>
+            <rect class="cls-1" x="0.5" y="0.5" width="6" height="3" rx="0.5"/>
+          </g>
+        </g>
+        <g transform="translate(-50 -613)">
+          <g id="Rechteck_233-11" data-name="Rechteck 233" class="cls-3" transform="translate(59 628)">
+            <rect class="cls-6" width="7" height="4" rx="1"/>
+            <rect class="cls-1" x="0.5" y="0.5" width="6" height="3" rx="0.5"/>
+          </g>
+        </g>
+        <g transform="translate(-41 -613)">
+          <g id="Rechteck_233-12" data-name="Rechteck 233" class="cls-3" transform="translate(59 628)">
+            <rect class="cls-6" width="7" height="4" rx="1"/>
+            <rect class="cls-1" x="0.5" y="0.5" width="6" height="3" rx="0.5"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 70 70">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Zeichenfläche_14);
+      }
+
+      .cls-2, .cls-4, .cls-5, .cls-6 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke: #fff;
+      }
+
+      .cls-3 {
+        stroke: none;
+      }
+
+      .cls-5 {
+        clip-path: url(#clip);
+      }
+
+      .cls-6 {
+        clip-path: url(#clip-2);
+      }
+
+      .cls-7 {
+        fill: rgba(63,70,125,0);
+      }
+    </style>
+    <clipPath id="clip-Zeichenfläche_14">
+      <rect width="70" height="70"/>
+    </clipPath>
+    <clipPath id="clip">
+      <use xlink:href="#fill"/>
+    </clipPath>
+    <clipPath id="clip-2">
+      <use xlink:href="#fill-2"/>
+    </clipPath>
+  </defs>
+  <g id="Zeichenfläche_14" data-name="Zeichenfläche – 14" class="cls-1">
+    <rect class="cls-7" width="70" height="70"/>
+    <g id="Gruppe_89" data-name="Gruppe 89" transform="translate(-247 -597.077)">
+      <g id="Rechteck_227" data-name="Rechteck 227" class="cls-2" transform="translate(252 612.077)">
+        <rect class="cls-3" width="59.605" height="40.923" rx="5"/>
+        <rect class="cls-4" x="0.5" y="0.5" width="58.605" height="39.923" rx="4.5"/>
+      </g>
+      <g id="Rechteck_228" data-name="Rechteck 228" class="cls-2" transform="translate(253.869 613.276) rotate(43)">
+        <rect id="fill" class="cls-3" width="38.916" height="0.89" rx="0.445"/>
+        <path class="cls-5" d="M0,0.3896259069442749h38.91615676879883M38.41615676879883,0v0.8896259069442749M38.91615676879883,0.5h-38.91615676879883M0.5,0.8896259069442749v-0.8896259069442749"/>
+      </g>
+      <g id="Rechteck_229" data-name="Rechteck 229" class="cls-2" transform="translate(280.993 639.817) rotate(-43)">
+        <rect id="fill-2" class="cls-3" width="38.916" height="0.89" rx="0.445"/>
+        <path class="cls-6" d="M0,0.3896259069442749h38.91615676879883M38.41615676879883,0v0.8896259069442749M38.91615676879883,0.5h-38.91615676879883M0.5,0.8896259069442749v-0.8896259069442749"/>
+      </g>
+    </g>
+  </g>
+</svg>
